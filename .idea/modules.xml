@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Programmers-Solutions.iml" filepath="$PROJECT_DIR$/.idea/Programmers-Solutions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/java-study/hashmap/hashmap.iml" filepath="$PROJECT_DIR$/java/java-study/hashmap/hashmap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/java.iml" filepath="$PROJECT_DIR$/java/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/java-study/untitled/untitled.iml" filepath="$PROJECT_DIR$/java/java-study/untitled/untitled.iml" />
     </modules>
   </component>
 </project>
