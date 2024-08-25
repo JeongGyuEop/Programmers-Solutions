@@ -11,6 +11,7 @@
       <sourceFolder url="file://$MODULE_DIR$/level_1/추억_점수" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/level_1/공원 산책" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/level_1/바탕화면_정리" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/level_1/덧칠하기" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="17" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
