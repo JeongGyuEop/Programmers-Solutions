@@ -27,7 +27,7 @@ public class RoughBoard {
     }
 
     /*
-        keymap 배열을 분석하여 각 문자에 대한 최 입력 횟수를 기록한 HashMap을 생성하는 함수
+        keymap 배열을 분석하여 각 문자에 대한 최소 입력 횟수를 기록한 HashMap을 생성하는 함수
 
         @param : keymap 각 키에 할당된 문자가 들어 있는 배열
         @return : 각 문자의 최소 입력 횟수가 저장된 HashMap
