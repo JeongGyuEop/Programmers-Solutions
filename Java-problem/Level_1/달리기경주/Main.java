@@ -1,4 +1,4 @@
-package src;
+package 달리기경주;
 
 import java.util.Arrays;
 import java.util.HashMap;

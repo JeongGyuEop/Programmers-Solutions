@@ -1,4 +1,4 @@
-package src;
+package 덧칠하기;
 
 public class Painting {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package src;
+package 추억_점수;
 
 import java.util.Arrays;
 import java.util.HashMap;

@@ -19,3 +19,6 @@ Thumbs.db
 
 # 환경 변수 파일
 .env
+
+.metadata/
+.project

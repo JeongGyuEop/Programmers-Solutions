@@ -1,4 +1,4 @@
-package src;
+package 대충만든자판;
 
 import java.util.Arrays;
 import java.util.HashMap;

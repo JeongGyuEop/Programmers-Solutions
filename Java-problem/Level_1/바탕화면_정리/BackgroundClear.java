@@ -1,4 +1,4 @@
-package src;
+package 바탕화면_정리;
 
 import java.util.ArrayList;
 import java.util.Arrays;

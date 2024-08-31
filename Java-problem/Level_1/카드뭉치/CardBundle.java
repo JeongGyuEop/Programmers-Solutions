@@ -1,4 +1,4 @@
-package src;
+package 카드뭉치;
 
 public class CardBundle {
     public static void main(String[] args) {
